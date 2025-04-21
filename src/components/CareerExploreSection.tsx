@@ -330,7 +330,7 @@ const CareerExploreSection = () => {
                     
                     <div className="mt-8 flex justify-center">
                       <button 
-                        onClick={() => window.open('https://guided-growth-mentorship.windsurf.build/', '_blank')}
+                        onClick={() => window.open('https://endearing-cannoli-cbcab7.netlify.app/', '_blank')}
                         className="bg-skillflow-purple hover:bg-skillflow-purple-dark text-white px-4 py-2 rounded-md shadow transition-colors hover-scale"
                       >
                         Peer2Peer
