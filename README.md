@@ -2,7 +2,7 @@
 
 This project helps users navigate their career paths and develop professional skills.
 
-**URL**: https://skillflow-career-compass.netlify.app
+**URL**: https://preeminent-lily-7e303a.netlify.app/
 
 ## Getting Started
 
